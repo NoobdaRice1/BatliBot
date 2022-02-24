@@ -1,0 +1,9 @@
+{
+	"ip":"Friends_SMP3295.aternos.me",
+	"port": 15860,
+	"name": "Batlibot",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (SUPER) (SUPER)",
+	"login-cmd":"/login (SUPER)"
+}
